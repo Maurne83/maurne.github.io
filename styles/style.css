@@ -1,0 +1,47 @@
+html {
+  .modern-antiqua-regular {
+  font-family: "Modern Antiqua", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  font-size: 16px;
+  background: linear-gradient(180deg, 
+     #FFFFFF 0%,   
+     #F8D568 40%,  
+     #FFD700 70%,  
+     #B8860B 100%
+    );
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #F8D568;
+  text-shadow: 3px 3px 1px black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 50px auto;
+  background-color: #87CEFA;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
